@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sacumbo.github.io/sitemap.html.gz
+Sitemap: https://sacumbo.github.io/app/sitemap.html.gz
+Sitemap: https://sacumbo.github.io/assets/sitemap.html.gz
+Sitemap: https://sacumbo.github.io/css/sitemap.html.gz
+Sitemap: https://sacumbo.github.io/data/sitemap.html.gz
+Sitemap: https://sacumbo.github.io/includes/sitemap.html.gz
+Sitemap: https://sacumbo.github.io/item/sitemap.html.gz
+Sitemap: https://sacumbo.github.io/src/sitemap.html.gz
